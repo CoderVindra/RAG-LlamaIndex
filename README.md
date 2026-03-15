@@ -29,8 +29,16 @@ model.
 
 # 📂 Project Structure
 
-RAG-LlamaIndex │ ├── documents/ ├── vector-db/ ├── document_ingestion.py
-├── retrieval.py ├── constants.py ├── requirements.txt └── README.md
+RAG-LlamaIndex 
+    │ 
+    ├── documents/
+         ├──sample.pdf
+    ├── vector-db/ 
+    ├── document_ingestion.py
+    ├── retrieval.py 
+    ├── constants.py 
+    ├── requirements.txt 
+    └── README.md
 
 ------------------------------------------------------------------------
 
